@@ -27,4 +27,4 @@ The participants were exposed to the following activities in order to achieve th
 8. (8th week) Github week: consolidation of work into a shareable public repository
 9. (Remaining days) Consolidation, leaving workshop
 
-Participants were being supervised by [Daniel Lawson, PhD](https://github.com/danjlawson), an OCSEAN Steering Group Member and the former Director of the [Jean Golding Institute for Data Science and Data Intensive Research](https://www.bristol.ac.uk/golding/), [University of Bristol](https://www.bristol.ac.uk/).
+Participants were being supervised by [Daniel Lawson, PhD](https://github.com/danjlawson), an OCSEAN Steering Group Member and the former Director of the [Jean Golding Institute for Data Science and Data Intensive Research](https://www.bristol.ac.uk/golding/), [University of Bristol](https://www.bristol.ac.uk/). He created a [Github repository](https://github.com/danjlawson/ocseanworkshop2025) for the same workshop, but it contains some other files that may be useful to the reader.
